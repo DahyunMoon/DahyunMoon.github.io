@@ -1,8 +1,8 @@
-#Welcome#
+# Welcome #
 
 This is DaHyun's page.
 
-##INTRODUCTION##
+## INTRODUCTION ##
 
 * HGU16
 
