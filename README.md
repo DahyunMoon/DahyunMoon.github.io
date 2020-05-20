@@ -6,7 +6,7 @@ This is DaHyun's page.
 
 * HGU16
 
-* Major1 : Life Science
-* Major2 : Computer Science
+| Major1 : Life Science
+| Major2 : Computer Science
 
 I'm interested in Pharmaceutical Researcher.
