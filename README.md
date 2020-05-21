@@ -10,5 +10,4 @@ This is DaHyun's page.
 | Major1 : Life Science
 | Major2 : Computer Science
 
-I'm interested in Pharmaceutical Researcher.
-I'm finding my way to go to achieve my dream.
+I'm interested in Pharmaceutical Researcher and finding my way to go to achieve my dream.
